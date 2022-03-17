@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.exe
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.deps.json
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.dll
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\bin\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.pdb
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.dll
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.pdb
+C:\Users\Lenovo\source\repos\AP204_Polymorphism_Abstract\AP204_Polymorphism_Abstract\obj\Debug\netcoreapp3.1\AP204_Polymorphism_Abstract.genruntimeconfig.cache
